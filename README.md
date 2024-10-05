@@ -43,8 +43,16 @@
 &nbsp;&emsp;&emsp;[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-<h2> 🤝🏻 Connect with me  </h2>
+
+<h2> 🤝🏻 Connect with me  </h2><p align="left">
+	<a href="https://www.linkedin.com/in/sanatha-dharadhipa-1a7697306">
+    	<img src="https://skillicons.dev/icons?i=linkedin" />
+	</a>
+	<a href="https://discordapp.com/users/475256149021818880/">
+    	<img src="https://skillicons.dev/icons?i=discord" />
+	</a>
+</p>
