@@ -49,13 +49,13 @@
 
 <h2> 📃 Certification</h2>
 
-| [![Static Badge](https://img.shields.io/badge/Machine%20Learning-fe7a16?style=flat?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipa/blob/main/asset/cert/Beginner%20Machine%20Learning.pdf) | [![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipa/blob/main/asset/cert/Beginner%20Python.pdf) |
+| [![Static Badge](https://img.shields.io/badge/Machine%20Learning-fe7a16?style=flat?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipha/blob/main/asset/cert/Beginner%20Machine%20Learning.pdf) | [![Static Badge](https://img.shields.io/badge/Python-8A2BE2?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipha/blob/main/asset/cert/Beginner%20Python.pdf) |
 | :----:      | :----:      |
-| [![Static Badge](https://img.shields.io/badge/Data%20Visualization-0078d7?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipa/blob/main/asset/cert/Data%20Visualization.pdf) | [![Static Badge](https://img.shields.io/badge/Web%20Developer-fa0f00?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipa/blob/main/asset/cert/Web%20Dev.pdf) |
+| [![Static Badge](https://img.shields.io/badge/Data%20Visualization-0078d7?style=flat&logoSize=auto)](https://github.com/sanathaDhipa/sanathaDhipha/blob/main/asset/cert/Data%20Visualization.pdf) | [![Static Badge](https://img.shields.io/badge/Web%20Developer-fa0f00?style=flat&logoSize=auto)](https://github.com/sanathaDhipha/sanathaDhipa/blob/main/asset/cert/Web%20Dev.pdf) |
   
 
 <h2> 🤝🏻 Connect with me  </h2><p align="left">
-	<a href="https://www.linkedin.com/in/sanatha-dharadhipa-1a7697306">
+	<a href="https://www.linkedin.com/in/sanatha-dharadhipha-1a7697306">
     	<img src="https://skillicons.dev/icons?i=linkedin" />
 	</a>
 	<a href="https://discordapp.com/users/475256149021818880/">
