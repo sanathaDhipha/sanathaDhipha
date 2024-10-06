@@ -58,6 +58,9 @@
 	<a href="https://www.linkedin.com/in/sanatha-dharadhipha-1a7697306">
     	<img src="https://skillicons.dev/icons?i=linkedin" />
 	</a>
+	<a href="mailto:sanathadhiphaa@gmail.com">
+    	<img src="https://skillicons.dev/icons?i=gmail" />
+	</a>
 	<a href="https://discordapp.com/users/475256149021818880/">
     	<img src="https://skillicons.dev/icons?i=discord" />
 	</a>
