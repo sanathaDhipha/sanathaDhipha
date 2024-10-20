@@ -55,7 +55,7 @@
   
 
 <h2> 🤝🏻 Connect with me  </h2><p align="left">
-	<a href="https://www.linkedin.com/in/sanatha-dharadhipha-1a7697306">
+	<a href="https://www.linkedin.com/in/sanatha-dharadhipha">
     	<img src="https://skillicons.dev/icons?i=linkedin" />
 	</a>
 	<a href="mailto:sanathadhiphaa@gmail.com">
