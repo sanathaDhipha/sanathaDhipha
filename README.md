@@ -19,6 +19,8 @@
 
 - 🤔 I’m currently open for <b>An Intern</b>😊
 
+- Feel free to look into my <a href="https://drive.google.com/file/d/1-B6QFv6w089KU-dK4laOobomPmAY1pJ1/view?usp=sharing" target="_blank">CV</a>
+
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack</h2>
 
 ### 👨‍💻 Programming Languages
